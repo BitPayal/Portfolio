@@ -1,0 +1,37 @@
+[
+    {
+      "role": "Frontend Developer",
+      "organisation": "Wayspire",
+      "startDate": "June, 2024",
+      "endDate": "July ,2024"
+  
+    },
+    {
+      "role": "Fullstack Developer",
+      "organisation": "Edunet",
+      "startDate": "Dec, 2024",
+      "endDate": "Jan, 2025"
+    
+    },
+    {
+      "role": " Coding Teaching",
+      "organisation": "Bellatrix",
+      "startDate": "Dec, 2023",
+      "endDate": "Jan, 2025"
+    
+    },
+    {
+      "role": "Technical Writer",
+      "organisation": "GFG",
+      "startDate": "Aprill, 2025",
+      "endDate": "current"
+    
+    },
+    {
+      "role": "Member",
+      "organisation": "GHCI",
+      "startDate": "Nov, 2024",
+      "endDate": "current"
+    
+    }
+  ]

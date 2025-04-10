@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "TailwindCss","Javascript"],
+      "demo": "https://task-list-to-doo.netlify.app/",
+      "source": "https://github.com/BitPayal"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "API", "TailwindCss"],
+      "demo": "https://check-outside-app.netlify.app/",
+      "source": "https://github.com/BitPayal"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://my-contacts-list-app.netlify.app/",
+      "source": "https://github.com/BitPayal"
+    }
+  ]
